@@ -8,5 +8,9 @@ git diff	查看当前工作区文件的版本库中文件的区别
 
 git add 目标文件路径   git add .->将当前目录下的所有未添加到暂有区的文件全部添加到暂有区
 git diff 目标文件路径
+git commit 目标文件路径 -m “提交说明”
 
 
+git  log 命令 查看文件历史记录 
+--pretty=oneline 一行显示  
+git reset --hard
