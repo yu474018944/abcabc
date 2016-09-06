@@ -1,0 +1,12 @@
+git  init  创建一个版本库
+
+git add		将文件添加到git的暂存区
+git commit	将文件暂存区的文件提交到git仓库	
+git status	查看当前仓库的状态
+git diff	查看当前工作区文件的版本库中文件的区别
+
+
+git add 目标文件路径   git add .->将当前目录下的所有未添加到暂有区的文件全部添加到暂有区
+
+
+
